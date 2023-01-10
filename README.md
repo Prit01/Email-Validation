@@ -1,3 +1,3 @@
 # Email-Validation
-I am Develop in Email Validation Using Python(String , Statemaent and Loop)
+I am Develop in Email Validation Using Python(String , Statement and Loop)
 
